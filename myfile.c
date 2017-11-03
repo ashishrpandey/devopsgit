@@ -1,8 +1,4 @@
 This is my second file
-Tjngkj
-km
+This is my file on GIT 
+TRying to Clone
 
-
-kdmgkvmadk
-kdmgkmd
-esting jenkins on himanshu server
